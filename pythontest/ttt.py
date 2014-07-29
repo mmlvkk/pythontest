@@ -25,6 +25,7 @@ while a:
     print result
     print result
     print type(result)
+    
 #     a=0
 #     for k, v in enumerate(result):
 #         print v[1][1][0]
