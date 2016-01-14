@@ -44,7 +44,7 @@ def send_mail(server, fro, to, subject, text, files=[]):
     smtp.close()
     
 if __name__ == '__main__':
-    send_mail({'name':'110.172.192.62','user':'kwang','passwd':'dengken21'}, 'kwang@cm-topsci.com', ('java1.6@qq.com','mmlvkk@163.com'), 'python test', 'test')
+    send_mail({'name':'58.135.84.25','user':'kwang','passwd':'dengken21'}, 'kwang@cm-topsci.com', ('java1.6@qq.com','mmlvkk@163.com'), 'python test', 'test')
     
     
     
